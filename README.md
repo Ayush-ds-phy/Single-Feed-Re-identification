@@ -21,7 +21,7 @@ Built with 💡YOLOv8 and 🔁ByteTrack, it labels each object and follows it ac
 - 🧠 Caches tracking results to avoid re-running the model
 
 ---
-##how to run
+## How to run
 - Make Sure all files are in the same directory ('best.pt' is not uploaded due to github upload constraints)
 - open main.py and run the code 
 
