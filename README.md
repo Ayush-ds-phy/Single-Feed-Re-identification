@@ -35,4 +35,13 @@ Draws color-coded bounding boxes and labels:
 - 🟡 Yellow: Ball
 
 ### 5. **Save video**  
-Exports the annotated video as `output.avi`.
+Exports the annotated video as `broadcast_out.avi`.
+
+## 🧱 Project Structure
+
+├── main.py # Main script to run tracking and save video
+├── tracker.py # YOLO + ByteTrack-based Tracker class
+├── vid_func.py # Helper functions to read/write videos
+├── best.pt # Your custom-trained YOLO model
+├── broadcast.mp4 # Input video
+├── track_stubs.pkl # (Optional) Cached tracking data
