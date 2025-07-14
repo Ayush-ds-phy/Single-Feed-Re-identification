@@ -17,7 +17,7 @@ Built with 💡YOLOv8 and 🔁ByteTrack, it labels each object and follows it ac
   - The ball
 - 🔄 Tracks these objects across all frames using ByteTrack
 - 🖼️ Draws color-coded boxes and labels on each frame
-- 💾 Saves the result as an annotated video (`broadcast_out.avi`)
+- 💾 Saves the result as an annotated video (`15sec_input_720p-out.avi-out.avi`)
 - 🧠 Caches tracking results to avoid re-running the model
 
 ---
